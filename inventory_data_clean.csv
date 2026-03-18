@@ -1,0 +1,11 @@
+﻿product_id,product_name,stock_level,daily_sales,lead_time_days
+101,rice,500,25,7
+102,noodles,300,20,5
+103,sauce,200,8,10
+104,sugar,150,6,12
+105,coffee,100,5,8
+106,tea,120,7,6
+107,milk,400,30,5
+108,bread,350,28,4
+109,butter,180,9,10
+110,cheese,200,12,7
